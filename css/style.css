@@ -1,0 +1,16 @@
+* {
+    background-color:rgb(169, 255, 241);
+}
+.title,
+.link {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+.image {
+    height: 200px;
+    width: 200px;
+}
+
